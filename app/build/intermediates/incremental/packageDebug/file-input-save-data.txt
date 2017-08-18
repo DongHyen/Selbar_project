@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Fri Aug 11 15:06:19 KST 2017
+2.base=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\custom_title.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\device_list.xml
+4.base=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+7.file=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\message.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\app_icon.png
+4.set=DEX
+6.base=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\option_menu.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\device_name.xml
+10.base=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\app_icon.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\DongHyen\\[pdReport] bluetoothchat_original8\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
